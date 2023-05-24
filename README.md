@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Hi!%20I'm%20Nick!&fontSize=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F7DB6A&height=180&section=header&text=Hi!%20I'm%20Nick!&fontSize=35&fontColor=FDFAF6"/>
 
 
 
@@ -15,7 +15,7 @@
 
 <h3 align="center">✋🏻 Follow Me </h3>
 <p align="center">
-  <a href="https://velog.io/@yjw0517t"><img src="https://img.shields.io/badge/Nick-5FCA8B?style=flat-square&logo=velog&logoColor=white"/></a>        
+  <a href="https://velog.io/@yjw0517"><img src="https://img.shields.io/badge/Nick-5FCA8B?style=flat-square&logo=velog&logoColor=white"/></a>        
 </p>
 
 <!--
