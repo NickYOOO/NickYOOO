@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FED049&height=180&section=header&text=Hi!%20I'm%20Nick!&fontSize=35&fontColor=FDFAF6"/>
 
 
-
+<h3 align="center">I'm a growing developer 🌿<h3>
 <h3 align="center">🌳 Technology Stack 🌳</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-34F26?style=flat-square&logo=HTML5&logoColor=white"/>
