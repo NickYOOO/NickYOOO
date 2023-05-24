@@ -15,7 +15,7 @@
 
 <h3 align="center">✋🏻 Follow Me </h3>
 <p align="center">
-  <a href="https://velog.io/@yjw0517"><img src="https://img.shields.io/badge/Nick-5FCA8B?style=flat-square&logo=velog&logoColor=white"/></a>        
+  <a target="_blank" href="https://velog.io/@yjw0517"><img src="https://img.shields.io/badge/Nick-5FCA8B?style=flat-square&logo=velog&logoColor=white"/></a>        
 </p>
 
 <!--
